@@ -9,7 +9,7 @@
   Schließlich schraube ich meinen PC schon lange selbst auseinander und bin nun neugierig, wie ich Programme entwickeln kann, die mein Leben noch weiter erleichtern.
  
   💠 Ab und zu findet man mich auch als Spielerin in verschiedenen Minecraft-Modpacks wieder 
-  (Nähkästchen-Geplauder). Der Mod "peaceful recipes" wurde übrigens extra für mich entwickelt – er ermöglicht mir, im friedlichen Modus zu spielen, was mir mehr Freiraum im Spiel gibt und meine Kreativität zum brodeln bringt.
+  (Nähkästchen-Geplauder). Die Modifikation "peaceful recipes" wurde übrigens extra für mich entwickelt – er ermöglicht mir, im friedlichen Modus zu spielen, was mir mehr Freiraum im Spiel gibt und meine Kreativität zum brodeln bringt.
   
   💠 Falls du ein Unternehmen kennst oder selbst Quereinsteigerinnen förderst, freue ich mich über eine Nachricht LinkedIn: www.linkedin.com/in/yvonnebauferfolgskurs
 
