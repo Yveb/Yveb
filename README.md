@@ -11,5 +11,5 @@
   💠 Ab und zu findet man mich auch als Spielerin in verschiedenen Minecraft-Modpacks wieder 
   (Nähkästchen-Geplauder). Die Modifikation "peaceful recipes" wurde übrigens extra für mich entwickelt – er ermöglicht mir, im friedlichen Modus zu spielen, was mir mehr Freiraum im Spiel gibt und meine Kreativität zum brodeln bringt.
   
-  💠 Falls du ein Unternehmen kennst oder selbst Quereinsteigerinnen förderst, freue ich mich über eine Nachricht LinkedIn: www.linkedin.com/in/yvonnebauferfolgskurs
+  💠 Update: Wer sagt, dass Frau nicht auch studieren kann? Die Angewandte Informatik hat es mir wohl angetan und ich darf jetzt ganz offiziell die Welt der Programmierung kennenlernen.
 
