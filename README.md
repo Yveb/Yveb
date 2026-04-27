@@ -1,15 +1,49 @@
-"Willkommen auf meiner GitHub-Seite"
-
-  💠 Ich interessiere mich für das Programmieren und strebe einen Quereinstieg in die IT-Welt an.
-  
-  💠 Aktuell bin ich am Anfang meiner Reise mit Python und habe bereits mein erstes kleines Projekt, "PROJEKTA", abgeschlossen. 
-  Nun möchte ich mit HTML, JavaScript und CSS weitermachen, um meine eigene Webseite zu erstellen und meinen Werdegang dort zu dokumentieren.
-  
-  💠 Ein Fun Fact: Ich frage mich, warum ich mich nicht schon viel früher damit beschäftigt habe. 
-  Schließlich schraube ich meinen PC schon lange selbst auseinander und bin nun neugierig, wie ich Programme entwickeln kann, die mein Leben noch weiter erleichtern.
+# Willkommen auf meiner GitHub-Seite 👩🏻‍💻
  
-  💠 Ab und zu findet man mich auch als Spielerin in verschiedenen Minecraft-Modpacks wieder 
-  (Nähkästchen-Geplauder). Die Modifikation "peaceful recipes" wurde übrigens extra für mich entwickelt – er ermöglicht mir, im friedlichen Modus zu spielen, was mir mehr Freiraum im Spiel gibt und meine Kreativität zum brodeln bringt.
-  
-  💠 Update: Wer sagt, dass Frau nicht auch studieren kann? Die Angewandte Informatik hat es mir wohl angetan und ich darf jetzt ganz offiziell die Welt der Programmierung kennenlernen.
+> Quereinsteigerin · Studentin Angewandte Informatik · 3. Semester
+ 
+Durch mein Interesse als Quereinsteigerin in die Informatik zu kommen, hat sich mein Leben ganz schön auf den Kopf gestellt.
+ 
+Am Anfang habe ich zum Probieren mein erstes kleines Projekt [ProjektA](https://github.com/Yveb/ProjektA) abgeschlossen und bemerkt, wie viel Spaß mir das Programmieren macht. Da ich im echten Leben sehr kreativ bin, möchte ich nun auch in der digitalen Welt alles entdecken, um diese Prozesse auch da auszuleben.
+ 
+Also: raus aus dem Handel und der Wirtschaft, rein in Zahlen und Prozesse. 🚀
+ 
+Der Quereinstieg von der **Wirtschaftsfachwirtin** zum Studium der **Angewandten Informatik** ist herausfordernd und hat immer Überraschungen bereit. Doch wer mich kennt, weiß: ich liebe Herausforderungen auch wenn sie auf den ersten Blick überfordernd und sehr groß wirken.
+ 
+---
+ 
+## Was ich gerade lerne
+ 
+| Technologie | Stand |
+|---|---|
+| C | Grundlagen |
+| Python | Erste Projekte abgeschlossen |
+| SQL | Datenbanken im Studium |
+| HTML / CSS / JavaScript | In Arbeit |
+| Lineare Algebra | Macht sogar Spaß 📐 |
+ 
+---
+ 
+## Projekte
+ 
+**[ProjektA](https://github.com/Yveb/ProjektA)**
+Mein erstes eigenes Python-Projekt: ein Datei-Generator. Kleiner Anfang, aber meiner.
+ 
+**[Quereinstieg zur Software-Entwicklerin](https://github.com/Yveb/Quereinstieg-zur-Software-Entwicklerin)**
+Eine eigene Webseite mit HTML, CSS & JavaScript soll es mal werden, hier möchte ich meinen Werdegang dokumentieren.
+ 
+**[Learn C – Minecraft ADHD Edition](https://github.com/Yveb/learn-c-programming-with-minecraft-adhd-edition)**
+C lernen auf eine Art, die für mein Gehirn funktioniert. Kreativ, spielerisch, effektiv.
+ 
+---
+ 
+## Was mich antreibt
+ 
+- Alles genau verstehen wollen bis das Bild im Kopf komplett ist (Fluch und Segen zugleich)
+- Kreativität trifft Lösungsorientierung
+- Wirtschaftliches Denken lässt sich nicht abschalten (Prozesse und Strukturen sind überall)
+- Neurodivergenz als Ressource: ich entwickle Lernstrategien für mich und möchte damit auch anderen helfen
+- Mut und Offenheit für Neues auch wenn es mal wehtut
+- Ich wechsle gerne den Blickwinkel um das gesamte Bild zu sehen
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yvonne%20B.-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yvonnebauferfolgskurs)
