@@ -16,6 +16,7 @@ Der Quereinstieg von der **Wirtschaftsfachwirtin** zum Studium der **Angewandten
  
 | Technologie | Stand |
 |---|---|
+| Einführung i.d. Angewandte Informatik | ➡️ Studium |
 | Python / C | Informatik ➡️ Studium |
 | HTML / CSS / JavaScript |Informatik ➡️ Studium |
 | SQL | Datenbanken ➡️ Studium |
@@ -24,7 +25,6 @@ Der Quereinstieg von der **Wirtschaftsfachwirtin** zum Studium der **Angewandten
 | LATEX | Schlüsselkompetenzen ➡️ Studium |
 | Git | Schlüsselkompetenzen ➡️ Studium |
 | Programmierung mit R | Schlüsselkompetenzen ➡️ Studium |
-| Einführung i.d. Angewandte Informatik | ➡️ Studium |
 ---
  
 ## Projekte
