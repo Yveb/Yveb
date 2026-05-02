@@ -21,7 +21,6 @@ Der Quereinstieg von der **Wirtschaftsfachwirtin** zum Studium der **Angewandten
 | SQL | Datenbanken ➡️ Studium |
 | Lineare Algebra | Wirtschaftsmathematik ➡️ Studium  |
 | Analysis | Wirtschaftsmathematik ➡️ Studium  | 
-| Programmierung mit R | Schlüsselkompetenzen ➡️ Studium |
 | LATEX | Schlüsselkompetenzen ➡️ Studium |
 | Git | Schlüsselkompetenzen ➡️ Studium |
 | Programmierung mit R | Schlüsselkompetenzen ➡️ Studium |
