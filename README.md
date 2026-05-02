@@ -16,22 +16,29 @@ Der Quereinstieg von der **Wirtschaftsfachwirtin** zum Studium der **Angewandten
  
 | Technologie | Stand |
 |---|---|
-| C | Grundlagen |
-| Python | Erste Projekte abgeschlossen |
-| SQL | Datenbanken im Studium |
-| HTML / CSS / JavaScript | In Arbeit |
-| Lineare Algebra | Macht sogar Spaß 📐 |
- 
+| Python / C | Informatik ➡️ Studium |
+| HTML / CSS / JavaScript |Informatik ➡️ Studium |
+| SQL | Datenbanken ➡️ Studium |
+| Lineare Algebra | Wirtschaftsmathematik ➡️ Studium  |
+| Analysis | Wirtschaftsmathematik ➡️ Studium  | 
+| Programmierung mit R | Schlüsselkompetenzen ➡️ Studium |
+| LATEX | Schlüsselkompetenzen ➡️ Studium |
+| Git | Schlüsselkompetenzen ➡️ Studium |
+| Programmierung mit R | Schlüsselkompetenzen ➡️ Studium |
+| Einführung i.d. Angewandte Informatik | ➡️ Studium |
 ---
  
 ## Projekte
- 
+*(vor dem Studium)*
+
 **[ProjektA](https://github.com/Yveb/ProjektA)**
 Mein erstes eigenes Python-Projekt: ein Datei-Generator. Kleiner Anfang, aber meiner.
  
 **[Quereinstieg zur Software-Entwicklerin](https://github.com/Yveb/Quereinstieg-zur-Software-Entwicklerin)**
 Eine eigene Webseite mit HTML, CSS & JavaScript soll es mal werden, hier möchte ich meinen Werdegang dokumentieren.
- 
+
+*(im Studium)*
+
 **[Learn C – Minecraft ADHD Edition](https://github.com/Yveb/learn-c-programming-with-minecraft-adhd-edition)**
 C lernen auf eine Art, die für mein Gehirn funktioniert. Kreativ, spielerisch, effektiv.
  
